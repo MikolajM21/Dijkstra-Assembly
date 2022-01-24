@@ -1,0 +1,10 @@
+Katowice Torun
+Krakow Poznan
+Tarnow Wroclaw
+Kielce Torun
+Czestochowa Wroclaw
+Gliwice Jaslo
+Gdansk Istebna
+Rzeszow Szczecin
+Lublin Wroclaw
+Katowice Gliwice

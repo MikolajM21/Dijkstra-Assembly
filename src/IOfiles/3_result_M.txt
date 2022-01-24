@@ -1,0 +1,250 @@
+
+Trasa: Gdansk --> Gdynia
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Krakow --> Poznan (465km):
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Katowice --> Torun (355km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Tarnow --> Wroclaw
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Kielce --> Torun (411km):
+Kielce --> Czestochowa 126
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Czestochowa --> Wroclaw (357km):
+Czestochowa --> Opole 95
+Opole --> Gliwice 82
+Gliwice --> Wroclaw 180
+
+Trasa: Gliwice --> Jaslo (212km):
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+
+Trasa: Wroclaw --> Lublin
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Istebna --> Hel
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Tarnow --> Torun
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Kielce --> Gdynia
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Gdansk --> Istebna
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Szczecin --> Bialystok (1365km):
+Szczecin --> Wroclaw 400
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+Warszawa --> Olsztyn 212
+Olsztyn --> Bialystok 222
+
+Trasa: Wladyslawowo --> Gliwice
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Ustka --> Gdynia
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Opole --> Gliwice (82km):
+Opole --> Gliwice 82
+
+Trasa: Warszawa --> Karpacz (696km):
+Warszawa --> Czestochowa 218
+Czestochowa --> Opole 95
+Opole --> Gliwice 82
+Gliwice --> Wroclaw 180
+Wroclaw --> Karpacz 121
+
+Trasa: Lublin --> Wroclaw (1019km):
+Lublin --> Bialystok 246
+Bialystok --> Warszawa 198
+Warszawa --> Czestochowa 218
+Czestochowa --> Opole 95
+Opole --> Gliwice 82
+Gliwice --> Wroclaw 180
+
+Trasa: Rzeszow --> Szczecin
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Szczecin --> Poznan (996km):
+Szczecin --> Wroclaw 400
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Katowice --> Gliwice (22km):
+Katowice --> Gliwice 22
+
+Trasa: Czestochowa --> Bialystok (694km):
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+Warszawa --> Olsztyn 212
+Olsztyn --> Bialystok 222
+
+Trasa: Rzeszow --> Bialystok
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Wroclaw --> Opole (97km):
+Wroclaw --> Opole 97
+
+Trasa: Gdynia --> Szczecin (866km):
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Szczecin 360
+
+Trasa: Bialystok --> Warszawa (198km):
+Bialystok --> Warszawa 198
+
+Trasa: Hel --> Wladyslawowo (35km):
+Hel --> Wladyslawowo 35
+
+Trasa: Karpacz --> Opole (241km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+
+Trasa: Opole --> Poznan (499km):
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Slupsk --> Hel
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Pszczyna --> Tarnow (170km):
+Pszczyna --> Wadowice 48
+Wadowice --> Krakow 52
+Krakow --> Tarnow 70
+
+Trasa: Gliwice --> Bialystok (786km):
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+Warszawa --> Olsztyn 212
+Olsztyn --> Bialystok 222
+
+Trasa: Poznan --> Istebna
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Katowice --> Gdynia
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Zakopane --> Szczecin (1100km):
+Zakopane --> Wadowice 95
+Wadowice --> Krakow 52
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Szczecin 360
+
+Trasa: Poznan --> Torun (159km):
+Poznan --> Torun 159
+
+Trasa: Wisla --> Istebna
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Krakow --> Zakopane (108km):
+Krakow --> Zakopane 108
+
+Trasa: Kolobrzeg --> Poznan (1168km):
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Warszawa 342
+Warszawa --> Czestochowa 218
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Lublin --> Hel
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Hel --> Bialystok
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Katowice --> Bialystok (764km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+Warszawa --> Olsztyn 212
+Olsztyn --> Bialystok 222
+
+Trasa: Karpacz --> Warszawa (675km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+
+Trasa: Poznan --> Tarnow (1226km):
+Poznan --> Torun 159
+Torun --> Gdansk 168
+Gdansk --> Warszawa 342
+Warszawa --> Czestochowa 218
+Czestochowa --> Opole 95
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+
+Trasa: Jaslo --> Gdynia
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Wladyslawowo --> Istebna
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Gdynia --> Lodz (1186km):
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Warszawa 342
+Warszawa --> Czestochowa 218
+Czestochowa --> Lodz 120
+
+Trasa: Slupsk --> Wisla
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Wisla --> Bialystok (989km):
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+Wadowice --> Krakow 52
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+Warszawa --> Olsztyn 212
+Olsztyn --> Bialystok 222
+
+Trasa: Bialystok --> Slupsk
+TRASA NIEMOZLIWA DO WYZNACZENIA

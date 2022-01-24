@@ -1,0 +1,52 @@
+
+Trasa: Krakow --> Poznan (465km):
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Katowice --> Torun (355km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Kielce --> Torun (747km):
+Kielce --> Rzeszow 155
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Tarnow --> Wroclaw
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Czestochowa --> Wroclaw (272km):
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+
+Trasa: Gliwice --> Jaslo (212km):
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+
+Trasa: Gdansk --> Istebna (735km):
+Gdansk --> Warszawa 342
+Warszawa --> Czestochowa 218
+Czestochowa --> Katowice 70
+Katowice --> Istebna 105
+
+Trasa: Rzeszow --> Szczecin
+TRASA NIEMOZLIWA DO WYZNACZENIA
+
+Trasa: Lublin --> Wroclaw (662km):
+Lublin --> Warszawa 172
+Warszawa --> Czestochowa 218
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+
+Trasa: Katowice --> Gliwice (22km):
+Katowice --> Gliwice 22

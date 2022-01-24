@@ -1,0 +1,723 @@
+
+Trasa: Krakow --> Poznan (465km):
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Gdansk --> Gdynia (21km):
+Gdansk --> Gdynia 21
+
+Trasa: Tarnow --> Wroclaw (572km):
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+
+Trasa: Kielce --> Torun (411km):
+Kielce --> Czestochowa 126
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Katowice --> Torun (355km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Czestochowa --> Wroclaw (272km):
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+
+Trasa: Istebna --> Hel (806km):
+Istebna --> Wisla 13
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+Wadowice --> Katowice 72
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Hel 35
+
+Trasa: Tarnow --> Torun (725km):
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+
+Trasa: Kielce --> Gdynia (600km):
+Kielce --> Czestochowa 126
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+
+Trasa: Gdansk --> Istebna (993km):
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+Wisla --> Istebna 13
+
+Trasa: Wroclaw --> Lublin (649km):
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Lublin 175
+
+Trasa: Gliwice --> Jaslo (212km):
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+
+Trasa: Szczecin --> Bialystok (805km):
+Szczecin --> Kolobrzeg 133
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Olsztyn 167
+Olsztyn --> Bialystok 222
+
+Trasa: Ustka --> Gdynia (423km):
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Gdynia 21
+
+Trasa: Wladyslawowo --> Gliwice (870km):
+Wladyslawowo --> Ustka 127
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+
+Trasa: Opole --> Gliwice (82km):
+Opole --> Gliwice 82
+
+Trasa: Warszawa --> Karpacz (611km):
+Warszawa --> Czestochowa 218
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Karpacz 121
+
+Trasa: Rzeszow --> Szczecin (1120km):
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Szczecin 360
+
+Trasa: Lublin --> Wroclaw (662km):
+Lublin --> Warszawa 172
+Warszawa --> Czestochowa 218
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+
+Trasa: Szczecin --> Poznan (397km):
+Szczecin --> Kolobrzeg 133
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+
+Trasa: Czestochowa --> Bialystok (764km):
+Czestochowa --> Katowice 70
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Lublin 175
+Lublin --> Bialystok 246
+
+Trasa: Katowice --> Gliwice (22km):
+Katowice --> Gliwice 22
+
+Trasa: Wroclaw --> Opole (97km):
+Wroclaw --> Opole 97
+
+Trasa: Rzeszow --> Bialystok (421km):
+Rzeszow --> Lublin 175
+Lublin --> Bialystok 246
+
+Trasa: Gdynia --> Szczecin (724km):
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Szczecin 237
+
+Trasa: Hel --> Wladyslawowo (35km):
+Hel --> Wladyslawowo 35
+
+Trasa: Karpacz --> Opole (241km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+
+Trasa: Bialystok --> Warszawa (198km):
+Bialystok --> Warszawa 198
+
+Trasa: Gliwice --> Bialystok (716km):
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Lublin 175
+Lublin --> Bialystok 246
+
+Trasa: Opole --> Poznan (499km):
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Poznan 205
+
+Trasa: Slupsk --> Hel (492km):
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Hel 35
+
+Trasa: Pszczyna --> Tarnow (170km):
+Pszczyna --> Wadowice 48
+Wadowice --> Krakow 52
+Krakow --> Tarnow 70
+
+Trasa: Poznan --> Istebna (485km):
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+Wisla --> Istebna 13
+
+Trasa: Zakopane --> Szczecin (1050km):
+Zakopane --> Wadowice 95
+Wadowice --> Katowice 72
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Szczecin 360
+
+Trasa: Katowice --> Gdynia (544km):
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+
+Trasa: Poznan --> Torun (159km):
+Poznan --> Torun 159
+
+Trasa: Lublin --> Hel (938km):
+Lublin --> Warszawa 172
+Warszawa --> Czestochowa 218
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Hel 35
+
+Trasa: Wisla --> Istebna (13km):
+Wisla --> Istebna 13
+
+Trasa: Kolobrzeg --> Poznan (264km):
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+
+Trasa: Krakow --> Zakopane (108km):
+Krakow --> Zakopane 108
+
+Trasa: Hel --> Bialystok (953km):
+Hel --> Wladyslawowo 35
+Wladyslawowo --> Ustka 127
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Chojnice 159
+Chojnice --> Gdansk 124
+Gdansk --> Olsztyn 167
+Olsztyn --> Bialystok 222
+
+Trasa: Katowice --> Bialystok (694km):
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Lublin 175
+Lublin --> Bialystok 246
+
+Trasa: Poznan --> Tarnow (522km):
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+
+Trasa: Jaslo --> Gdynia (848km):
+Jaslo --> Rzeszow 67
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+
+Trasa: Karpacz --> Warszawa (675km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+
+Trasa: Pila --> Slupsk (349km):
+Pila --> Chojnice 95
+Chojnice --> Gdansk 124
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+
+Trasa: Gdynia --> Lodz (1059km):
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+
+Trasa: Wladyslawowo --> Istebna (995km):
+Wladyslawowo --> Ustka 127
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+Wisla --> Istebna 13
+
+Trasa: Bialystok --> Slupsk (999km):
+Bialystok --> Warszawa 198
+Warszawa --> Czestochowa 218
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+
+Trasa: Wisla --> Bialystok (779km):
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+Wadowice --> Krakow 52
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Lublin 175
+Lublin --> Bialystok 246
+
+Trasa: Slupsk --> Wisla (850km):
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+
+Trasa: Mikolow --> Rybnik (64km):
+Mikolow --> Katowice 17
+Katowice --> Gliwice 22
+Gliwice --> Rybnik 25
+
+Trasa: Rybnik --> Warszawa (379km):
+Rybnik --> Mikolow 32
+Mikolow --> Katowice 17
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+
+Trasa: Hel --> Rybnik (923km):
+Hel --> Wladyslawowo 35
+Wladyslawowo --> Ustka 127
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Rybnik 100
+
+Trasa: Olsztyn --> Bialystok (222km):
+Olsztyn --> Bialystok 222
+
+Trasa: Poznan --> Chojnice (192km):
+Poznan --> Pila 97
+Pila --> Chojnice 95
+
+Trasa: Pila --> Poznan (97km):
+Pila --> Poznan 97
+
+Trasa: Poznan --> Olsztyn (483km):
+Poznan --> Pila 97
+Pila --> Chojnice 95
+Chojnice --> Gdansk 124
+Gdansk --> Olsztyn 167
+
+Trasa: Katowice --> Karpacz (323km):
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Karpacz 121
+
+Trasa: Bialystok --> Kolobrzeg (1113km):
+Bialystok --> Warszawa 198
+Warszawa --> Czestochowa 218
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+
+Trasa: Czestochowa --> Pila (864km):
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+
+Trasa: Wisla --> Wadowice (103km):
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+
+Trasa: Kolobrzeg --> Legnica (521km):
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Legnica 76
+
+Trasa: Legnica --> Rzeszow (546km):
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+
+Trasa: Karpacz --> Kolobrzeg (1112km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+
+Trasa: Karpacz --> Legnica (72km):
+Karpacz --> Legnica 72
+
+Trasa: Czestochowa --> Legnica (348km):
+Czestochowa --> Katowice 70
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Legnica 76
+
+Trasa: Olsztyn --> Czestochowa (430km):
+Olsztyn --> Warszawa 212
+Warszawa --> Czestochowa 218
+
+Trasa: Kielce --> Krosno (412km):
+Kielce --> Czestochowa 126
+Czestochowa --> Katowice 70
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+
+Trasa: Zakopane --> Legnica (445km):
+Zakopane --> Wadowice 95
+Wadowice --> Katowice 72
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Legnica 76
+
+Trasa: Chojnice --> Gdansk (124km):
+Chojnice --> Gdansk 124
+
+Trasa: Gliwice --> Pszczyna (59km):
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+
+Trasa: Rybnik --> Hel (667km):
+Rybnik --> Mikolow 32
+Mikolow --> Katowice 17
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Hel 35
+
+Trasa: Wadowice --> Warszawa (402km):
+Wadowice --> Katowice 72
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+
+Trasa: Chojnice --> Bialystok (513km):
+Chojnice --> Gdansk 124
+Gdansk --> Olsztyn 167
+Olsztyn --> Bialystok 222
+
+Trasa: Mikolow --> Krosno (233km):
+Mikolow --> Katowice 17
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+
+Trasa: Katowice --> Wadowice (85km):
+Katowice --> Pszczyna 37
+Pszczyna --> Wadowice 48
+
+Trasa: Gliwice --> Mikolow (22km):
+Gliwice --> Mikolow 22
+
+Trasa: Chojnice --> Gdynia (145km):
+Chojnice --> Gdansk 124
+Gdansk --> Gdynia 21
+
+Trasa: Mikolow --> Wadowice (102km):
+Mikolow --> Katowice 17
+Katowice --> Pszczyna 37
+Pszczyna --> Wadowice 48
+
+Trasa: Istebna --> Chojnice (866km):
+Istebna --> Wisla 13
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+Wadowice --> Katowice 72
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Chojnice 134
+
+Trasa: Torun --> Karpacz (978km):
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Slupsk 109
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Karpacz 121
+
+Trasa: Ustka --> Mikolow (765km):
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Mikolow 22
+
+Trasa: Hel --> Rzeszow (1200km):
+Hel --> Wladyslawowo 35
+Wladyslawowo --> Ustka 127
+Ustka --> Kolobrzeg 119
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Tarnow 70
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+
+Trasa: Pszczyna --> Legnica (398km):
+Pszczyna --> Wadowice 48
+Wadowice --> Katowice 72
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Legnica 76
+
+Trasa: Wisla --> Karpacz (498km):
+Wisla --> Pszczyna 55
+Pszczyna --> Wadowice 48
+Wadowice --> Katowice 72
+Katowice --> Gliwice 22
+Gliwice --> Wroclaw 180
+Wroclaw --> Karpacz 121
+
+Trasa: Karpacz --> Kielce (533km):
+Karpacz --> Legnica 72
+Legnica --> Wroclaw 72
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Krakow 70
+Krakow --> Kielce 118
+
+Trasa: Kolobrzeg --> Lodz (836km):
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+
+Trasa: Jaslo --> Wladyslawowo (887km):
+Jaslo --> Rzeszow 67
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+
+Trasa: Rybnik --> Ustka (759km):
+Rybnik --> Mikolow 32
+Mikolow --> Katowice 17
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Ustka 127
+
+Trasa: Szczecin --> Pszczyna (816km):
+Szczecin --> Kolobrzeg 133
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+
+Trasa: Tarnow --> Mikolow (387km):
+Tarnow --> Jaslo 50
+Jaslo --> Krosno 26
+Krosno --> Rzeszow 57
+Rzeszow --> Krakow 167
+Krakow --> Katowice 70
+Katowice --> Mikolow 17
+
+Trasa: Pszczyna --> Katowice (120km):
+Pszczyna --> Wadowice 48
+Wadowice --> Katowice 72
+
+Trasa: Gliwice --> Warszawa (352km):
+Gliwice --> Katowice 22
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Warszawa 140
+
+Trasa: Kielce --> Wisla (286km):
+Kielce --> Czestochowa 126
+Czestochowa --> Katowice 70
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+
+Trasa: Zakopane --> Istebna (270km):
+Zakopane --> Wadowice 95
+Wadowice --> Katowice 72
+Katowice --> Pszczyna 37
+Pszczyna --> Wisla 53
+Wisla --> Istebna 13
+
+Trasa: Wadowice --> Hel (690km):
+Wadowice --> Katowice 72
+Katowice --> Czestochowa 70
+Czestochowa --> Lodz 120
+Lodz --> Torun 165
+Torun --> Gdansk 168
+Gdansk --> Gdynia 21
+Gdynia --> Wladyslawowo 39
+Wladyslawowo --> Hel 35
+
+Trasa: Slupsk --> Wadowice (845km):
+Slupsk --> Kolobrzeg 114
+Kolobrzeg --> Pila 167
+Pila --> Poznan 97
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Gliwice 82
+Gliwice --> Katowice 22
+Katowice --> Pszczyna 37
+Pszczyna --> Wadowice 48
+
+Trasa: Poznan --> Rybnik (378km):
+Poznan --> Wroclaw 181
+Wroclaw --> Opole 97
+Opole --> Rybnik 100
+
+Trasa: Lodz --> Legnica (462km):
+Lodz --> Poznan 205
+Poznan --> Wroclaw 181
+Wroclaw --> Legnica 76
